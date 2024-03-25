@@ -1537,10 +1537,10 @@ app-module-path@^2.2.0:
   resolved "https://registry.yarnpkg.com/app-module-path/-/app-module-path-2.2.0.tgz#641aa55dfb7d6a6f0a8141c4b9c0aa50b6c24dd5"
   integrity sha512-gkco+qxENJV+8vFcDiiFhuoSvRXb2a/QPqpSoWhVz829VNJfOTnELbBmPmNKFxf3xdNnw4DWCkzkDaavcX/1YQ==
 
-append-field@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/append-field/-/append-field-0.1.0.tgz#6ddc58fa083c7bc545d3c5995b2830cc2366d44a"
-  integrity sha512-8BgHoIwbQZaAQgDZLBu2vQoXHgUpSx4vQK1qv7e6R8YfbiSf4fCaBPJRtM1BaxVn1rIHc5ftv0cklsJ78BkouQ==
+append-field@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/append-field/-/append-field-2.0.0.tgz#5997b4468ec8b87d3344cbe9af244a6853b9f416"
+  integrity sha512-yUPXgerKgcuwakzrRyklfhX+Ma2aYYMjb+BO2RPUwq+tk928V/i5DFWcCUS3hQhj468N+Ktmwb0tfbEtmfC6WA==
 
 argparse@^1.0.7:
   version "1.0.10"
